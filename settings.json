@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMP1-jrIE.aternos.me:27737",
+    "ip": "SMP1-jrIE.aternos.me",
     "port":  27737,
     "version": "1.21.11",
     "try-creative": false
